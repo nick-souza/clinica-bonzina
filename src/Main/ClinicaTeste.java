@@ -10,7 +10,6 @@ public class ClinicaTeste {
 
     public static void main(String[] args) {
         Dashboard test = new Dashboard();
-
         test.setVisible(true);
     }
 
